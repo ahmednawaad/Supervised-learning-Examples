@@ -1,5 +1,6 @@
 # Supervised-learning-Examples
-ddd
+
+![Snipaste_2021-11-16_16-14-49](https://user-images.githubusercontent.com/45611227/142003086-e0553fb4-a888-4fca-9c07-399a33acd77b.png)
 
 
 <div align="center" id="top"> 
@@ -18,7 +19,6 @@ ddd
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/mohamedelmesawy" target="_blank">Author</a>
 </p>
 
 <br>
@@ -30,7 +30,7 @@ This project displays how to use Sklearn library to create a supervised machine 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Data Cleaning. \    
+:heavy_check_mark: Data Cleaning.    
 :heavy_check_mark: Data Visualization. \
 :heavy_check_mark: Feature selection. \
 :heavy_check_mark: Modelling. \
@@ -45,7 +45,7 @@ This project displays how to use Sklearn library to create a supervised machine 
 
 The following tools were used in the project:
 
-- [Pthon](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Sklearn](https://scikit-learn.org/stable/)
 - [Matplotlib](https://matplotlib.org/)
@@ -53,7 +53,7 @@ The following tools were used in the project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting, you need to have [Git](https://git-scm.com) and [Dash](https://dash.plotly.com/) installed.
+:heavy_check_mark: python==3.6
 
 ## :checkered_flag: Starting ##
 
